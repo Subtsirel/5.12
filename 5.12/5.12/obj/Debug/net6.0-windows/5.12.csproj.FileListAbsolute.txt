@@ -1,0 +1,17 @@
+D:\Users\Daria\source\repos\5.12\5.12\bin\Debug\net6.0-windows\5.12.exe
+D:\Users\Daria\source\repos\5.12\5.12\bin\Debug\net6.0-windows\5.12.deps.json
+D:\Users\Daria\source\repos\5.12\5.12\bin\Debug\net6.0-windows\5.12.runtimeconfig.json
+D:\Users\Daria\source\repos\5.12\5.12\bin\Debug\net6.0-windows\5.12.dll
+D:\Users\Daria\source\repos\5.12\5.12\bin\Debug\net6.0-windows\5.12.pdb
+D:\Users\Daria\source\repos\5.12\5.12\obj\Debug\net6.0-windows\5.12.csproj.AssemblyReference.cache
+D:\Users\Daria\source\repos\5.12\5.12\obj\Debug\net6.0-windows\_5._12.Form1.resources
+D:\Users\Daria\source\repos\5.12\5.12\obj\Debug\net6.0-windows\5.12.csproj.GenerateResource.cache
+D:\Users\Daria\source\repos\5.12\5.12\obj\Debug\net6.0-windows\5.12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Daria\source\repos\5.12\5.12\obj\Debug\net6.0-windows\5.12.AssemblyInfoInputs.cache
+D:\Users\Daria\source\repos\5.12\5.12\obj\Debug\net6.0-windows\5.12.AssemblyInfo.cs
+D:\Users\Daria\source\repos\5.12\5.12\obj\Debug\net6.0-windows\5.12.csproj.CoreCompileInputs.cache
+D:\Users\Daria\source\repos\5.12\5.12\obj\Debug\net6.0-windows\5.12.dll
+D:\Users\Daria\source\repos\5.12\5.12\obj\Debug\net6.0-windows\refint\5.12.dll
+D:\Users\Daria\source\repos\5.12\5.12\obj\Debug\net6.0-windows\5.12.pdb
+D:\Users\Daria\source\repos\5.12\5.12\obj\Debug\net6.0-windows\5.12.genruntimeconfig.cache
+D:\Users\Daria\source\repos\5.12\5.12\obj\Debug\net6.0-windows\ref\5.12.dll
